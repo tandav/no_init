@@ -4,7 +4,7 @@ import sys
 
 def main() -> int:
     """
-    return codes
+    return codes:
     0 - success, no __init__.py found
     1 - found __init__.py files
     2 - not a directory or passed (or directory not exists)
