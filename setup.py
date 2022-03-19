@@ -1,9 +1,9 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
 setup(
     name='no_init',
-    version='v0.1.2',
-    description='tool that checks that there are no __init__.py in your modules',
+    version='v0.1.3',
+    description='tool that checks that there are no __init__.py in your modules (or they are empty)',
     long_description_content_type="text/markdown",
     url='https://github.com/tandav/no_init',
     # packages=find_packages(),
